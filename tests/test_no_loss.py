@@ -118,7 +118,7 @@ class PagesTest(unittest.TestCase):
 
     def test_only_the_two_readmes_changed_among_existing_files(self):
         """H9 in code: no existing content file other than README.md and README.ru.md differs from the tag."""
-        r = subprocess.run(["git", "diff", "--name-only", "pre-showcase-2026-11"], cwd=ROOT,
+        r = subprocess.run(["git", "diff", "--name-only", "--diff-filter=MDRT", "pre-showcase-2026-11"], cwd=ROOT,
                            capture_output=True, text=True)
         if r.returncode != 0:
             self.skipTest("tag pre-showcase-2026-11 not available")
