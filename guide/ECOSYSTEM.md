@@ -24,14 +24,14 @@ only. None of them is the IP basis for QTDSA.
 | UAP Reverse Engineering Study | UAP analysis | [View](https://github.com/AdvancedScientificResearchProjects/UAP_Reverse_Engineering_Study) |
 | PLFM RADAR | Phased array radar | [View](https://github.com/AdvancedScientificResearchProjects/PLFM_RADAR) |
 
-These are listed as related repositories. The README names no dependency on them. The asrp.memory registry treats
-PLFM RADAR as an external fork, not an ASRP study; see [open questions](EVIDENCE.md#open-questions).
+These are listed as related repositories. The README names no dependency on them. PLFM RADAR may be an external fork
+rather than an ASRP study; this repository does not establish which.
 
 ## Patent Portfolio (applications, not granted)
 
 **Listed for ecosystem context only.** None of these is the IP basis for QTDSA (see [Patent connection](#patent-connection)).
 The "Application" column is the README's own text. The status of each application is not established by this
-repository, and two entries conflict with the asrp.memory registry (see [open questions](EVIDENCE.md#open-questions), items 8 and 9).
+repository. The repository does not name the applicants; an application is not a granted patent.
 
 | Patent | Application | Link |
 |---|---|---|
