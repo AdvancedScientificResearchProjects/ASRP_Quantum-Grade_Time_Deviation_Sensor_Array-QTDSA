@@ -1,0 +1,204 @@
+{
+ "waivers": [
+  {
+   "check": "S1_names_missing",
+   "match": "\"ASRP ECOSYSTEM\"",
+   "reason": "Case only: the all-caps label or heading of the old README is written in sentence or title case on the new pages (same words, EN and RU). The legacy anchor of the old heading is kept in README.md."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"ASRP Ecosystem\"",
+   "reason": "Case only: the label is written in sentence case on the new pages (same words; the page that carries it is named in the README excerpt). No content is lost."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"CONTACT INFORMATION\"",
+   "reason": "Case only: the all-caps label or heading of the old README is written in sentence or title case on the new pages (same words, EN and RU). The legacy anchor of the old heading is kept in README.md."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"Core Team\"",
+   "reason": "Case only: the label is written in sentence case on the new pages (same words; the page that carries it is named in the README excerpt). No content is lost."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"Data Classification\"",
+   "reason": "Case only: the label is written in sentence case on the new pages (same words; the page that carries it is named in the README excerpt). No content is lost."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"Delay Compensation\"",
+   "reason": "Case only: the label is written in sentence case on the new pages (same words; the page that carries it is named in the README excerpt). No content is lost."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"Differential Mode\"",
+   "reason": "Case only: the label is written in sentence case on the new pages (same words; the page that carries it is named in the README excerpt). No content is lost."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"Director Only\"",
+   "reason": "Case only: the label is written in sentence case on the new pages (same words; the page that carries it is named in the README excerpt). No content is lost."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"Distributed Mode\"",
+   "reason": "Case only: the label is written in sentence case on the new pages (same words; the page that carries it is named in the README excerpt). No content is lost."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"Environmental Factors\"",
+   "reason": "Case only: the label is written in sentence case on the new pages (same words; the page that carries it is named in the README excerpt). No content is lost."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"Experimental Modes\"",
+   "reason": "Case only: the label is written in sentence case on the new pages (same words; the page that carries it is named in the README excerpt). No content is lost."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"Hardware Blocks\"",
+   "reason": "Case only: the label is written in sentence case on the new pages (same words; the page that carries it is named in the README excerpt). No content is lost."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"ISSUE TEMPLATES\"",
+   "reason": "Case only: the all-caps label or heading of the old README is written in sentence or title case on the new pages (same words, EN and RU). The legacy anchor of the old heading is kept in README.md."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"Issue Templates\"",
+   "reason": "Case only: the label is written in sentence case on the new pages (same words; the page that carries it is named in the README excerpt). No content is lost."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"NAVIGATION INDEX\"",
+   "reason": "Case only: the all-caps label or heading of the old README is written in sentence or title case on the new pages (same words, EN and RU). The legacy anchor of the old heading is kept in README.md."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"PATENT CONNECTION\"",
+   "reason": "Case only: the all-caps label or heading of the old README is written in sentence or title case on the new pages (same words, EN and RU). The legacy anchor of the old heading is kept in README.md."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"Patent Connection\"",
+   "reason": "Case only: the label is written in sentence case on the new pages (same words; the page that carries it is named in the README excerpt). No content is lost."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"QUICK NAVIGATION\"",
+   "reason": "Case only: the all-caps label or heading of the old README is written in sentence or title case on the new pages (same words, EN and RU). The legacy anchor of the old heading is kept in README.md."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"RESEARCH TEAM\"",
+   "reason": "Case only: the all-caps label or heading of the old README is written in sentence or title case on the new pages (same words, EN and RU). The legacy anchor of the old heading is kept in README.md."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"Reference Mode\"",
+   "reason": "Case only: the label is written in sentence case on the new pages (same words; the page that carries it is named in the README excerpt). No content is lost."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"Reference System\"",
+   "reason": "Case only: the label is written in sentence case on the new pages (same words; the page that carries it is named in the README excerpt). No content is lost."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"Related Research Repositories\"",
+   "reason": "Case only: the label is written in sentence case on the new pages (same words; the page that carries it is named in the README excerpt). No content is lost."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"Research Team\"",
+   "reason": "Case only: the label is written in sentence case on the new pages (same words; the page that carries it is named in the README excerpt). No content is lost."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"Sensor Layer\"",
+   "reason": "Case only: the label is written in sentence case on the new pages (same words; the page that carries it is named in the README excerpt). No content is lost."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"System Concept\"",
+   "reason": "Case only: the label is written in sentence case on the new pages (same words; the page that carries it is named in the README excerpt). No content is lost."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"TECHNICAL SPECIFICATION\"",
+   "reason": "Case only: the all-caps label or heading of the old README is written in sentence or title case on the new pages (same words, EN and RU). The legacy anchor of the old heading is kept in README.md."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"Team Only\"",
+   "reason": "Case only: the label is written in sentence case on the new pages (same words; the page that carries it is named in the README excerpt). No content is lost."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"Technical Specification\"",
+   "reason": "Case only: the label is written in sentence case on the new pages (same words; the page that carries it is named in the README excerpt). No content is lost."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"Time-to-Digital Converter\"",
+   "reason": "Case only: the label is written in sentence case on the new pages (same words; the page that carries it is named in the README excerpt). No content is lost."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"БЫСТРАЯ НАВИГАЦИЯ\"",
+   "reason": "Case only: the all-caps Russian heading of the old README is written in sentence case on README.ru.md and guide/*.ru.md (same words). The legacy anchor is kept in README.md."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"ДОРОЖНАЯ КАРТА\"",
+   "reason": "Case only: the all-caps Russian heading of the old README is written in sentence case on README.ru.md and guide/*.ru.md (same words). The legacy anchor is kept in README.md."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"Задержка FPGA\"",
+   "reason": "Case only: the label is written in sentence case on the new pages (same words; the page that carries it is named in the README excerpt). No content is lost."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"КОНТАКТНАЯ ИНФОРМАЦИЯ\"",
+   "reason": "Case only: the all-caps Russian heading of the old README is written in sentence case on README.ru.md and guide/*.ru.md (same words). The legacy anchor is kept in README.md."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"НАВИГАЦИОННЫЙ ИНДЕКС\"",
+   "reason": "Case only: the all-caps Russian heading of the old README is written in sentence case on README.ru.md and guide/*.ru.md (same words). The legacy anchor is kept in README.md."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"Патентный Портфель\"",
+   "reason": "Case only: the label is written in sentence case on the new pages (same words; the page that carries it is named in the README excerpt). No content is lost."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"СВЯЗЬ С ПАТЕНТОМ\"",
+   "reason": "Case only: the all-caps Russian heading of the old README is written in sentence case on README.ru.md and guide/*.ru.md (same words). The legacy anchor is kept in README.md."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"Связанные Исследовательские Репозитории\"",
+   "reason": "Case only: the label is written in sentence case on the new pages (same words; the page that carries it is named in the README excerpt). No content is lost."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"ТЕХНИЧЕСКОЕ ЗАДАНИЕ\"",
+   "reason": "Case only: the all-caps Russian heading of the old README is written in sentence case on README.ru.md and guide/*.ru.md (same words). The legacy anchor is kept in README.md."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"ШАБЛОНЫ ЗАДАЧ\"",
+   "reason": "Case only: the all-caps Russian heading of the old README is written in sentence case on README.ru.md and guide/*.ru.md (same words). The legacy anchor is kept in README.md."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"ЭКОСИСТЕМА ASRP\"",
+   "reason": "Case only: the all-caps Russian heading of the old README is written in sentence case on README.ru.md and guide/*.ru.md (same words). The legacy anchor is kept in README.md."
+  }
+ ]
+}
