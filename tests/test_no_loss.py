@@ -69,10 +69,10 @@ class FactsTest(unittest.TestCase):
         en = read("README.md")
         ru = read("README.ru.md")
         self.assertIn("sensor_types-%s-" % F["sensor_types"], en)
-        self.assertIn("channels-%s%%E2%%80%%93%s_(design_target)" % (F["channels_min"], F["channels_target"]), en)
+        self.assertIn("channels-%%E2%%89%%A5_%s_(target_%s%%E2%%80%%93%s)" % (F["channels_min"], F["channels_target_min"], F["channels_target"]), en)
         self.assertIn("roadmap-0_of_%s_phases_started" % F["phases"], en)
         self.assertIn("типы_датчиков-%s-" % F["sensor_types"], ru)
-        self.assertIn("каналы-%s%%E2%%80%%93%s_(проектная_цель)" % (F["channels_min"], F["channels_target"]), ru)
+        self.assertIn("каналы-%%E2%%89%%A5_%s_(цель_%s%%E2%%80%%93%s)" % (F["channels_min"], F["channels_target_min"], F["channels_target"]), ru)
         self.assertIn("0_из_%s_фаз_начато" % F["phases"], ru)
 
     def test_stated_values_equal_computed_facts(self):

@@ -107,8 +107,8 @@ def chain(F, lang):
         ("Oscillators" if en else "Осцилляторы",
          ["quartz, TCXO, OCXO" if en else "кварц, TCXO, OCXO", "MCU: experimental" if en else "MCU: экспериментально"]),
         ("Measurement core" if en else "Ядро измерения",
-         ["FPGA + TDC" if en else "FPGA + TDC", "resolution ≤ %s ps" % F["resolution_ps"] if en else
-          "разрешение ≤ %s пс" % F["resolution_ps"]]),
+         ["FPGA + TDC" if en else "FPGA + TDC", "resolution ≤ %s–%s ps" % (F["resolution_ps_min"], F["resolution_ps"]) if en else
+          "разрешение ≤ %s–%s пс" % (F["resolution_ps_min"], F["resolution_ps"])]),
         ("Delay compensation" if en else "Компенсация задержек",
          ["T_corrected = T_meas −", "T_cable − T_hw − T_comm"]),
         ("Metrics" if en else "Метрики",

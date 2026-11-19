@@ -60,17 +60,6 @@ These are inconsistencies inside the repository. They are recorded here and **no
    and no creation date is given.
 6. **Team.** The roster is "TBD" (lines 312–314). Who is responsible for filling it in, and when?
 7. **Investment contact.** "Investment inquiries" is marked "pending" (line 29), with no URL.
-8. **Ecosystem patent IDs (cross-check outside this repository).** The README lists ASRP.art as "KZ 2025/0592.1 + PCT"
-   (line 377) and ASRP.drift as "KZ 413554" (line 378). The asrp.memory identifiers registry records a different
-   state: the PCT application is treated as withdrawn from 2026-05-12, and KZ 413554 is an incoming number, with the
-   registration number 2026/0347.1 (`materials/identifiers.md` in asrp.memory, lines 183–184). These statuses are
-   not verified here and may have changed.
-9. **Ecosystem patent deadline (cross-check outside this repository).** The same registry records a ministry query on
-   2026/0347.1 with a reply deadline of 2026-08-18 and no recorded outcome (`materials/identifiers.md:69`). Its current
-   status is unknown on 2026-11-19 and is not resolved here.
-10. **PLFM RADAR (cross-check outside this repository).** The README lists PLFM RADAR under related research
-    repositories (line 361). The asrp.memory registry treats it as an external open-source fork, not an ASRP study.
-    The README does not say so.
 
 ## How to read the numbers
 

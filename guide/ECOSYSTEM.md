@@ -11,9 +11,7 @@ concept and, unlike the Hyperbolic Field and consciousness-cluster studies, is n
 filing. The README claims no patent basis for it, so none is asserted here.
 
 **An application is not a granted patent.** The patent rows below are applications listed for ecosystem context
-only. None of them is the IP basis for QTDSA. The README names no applicants. The asrp.memory registry records that the
-applicants of these filings are individuals, and that the LLP appears only as correspondence address or fee payer
-(`materials/identifiers.md`, line 25; not verified in this repository).
+only. None of them is the IP basis for QTDSA.
 
 ## Related research repositories
 
@@ -67,7 +65,7 @@ Individual Contributor. Investment inquiries are pending: the URL has not been p
 
 | Field | Value |
 |---|---|
-| Organization | Advanced Scientific Research Projects LLP |
+| Organization | `ТОО "Перспективные Научно-Исследовательские Разработки" / Advanced Scientific Research Projects LLP` |
 | Country | Republic of Kazakhstan |
 | Website | [asrp.tech](https://asrp.tech) |
 | Email | info@asrp.tech |

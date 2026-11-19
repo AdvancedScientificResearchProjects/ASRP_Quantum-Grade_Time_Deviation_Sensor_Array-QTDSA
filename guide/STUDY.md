@@ -46,8 +46,9 @@ and is not tied to their filings. The full list is on [ECOSYSTEM](ECOSYSTEM.md#r
 
 ## History of this repository
 
-- The first two commits (2026-04-18) created a short description and then a fuller README, with the title
-  "QTDSA — Quantum Time Deviation Sensor Array" (no "Grade" in the title) and a planned repository name
+- The initial commit (a51adaa, 2026-04-18) held a short description under the heading
+  "ASRP_Quantum-Grade_Time_Deviation_Sensor_Array-QTDSA". The second commit (e8500c9, 2026-04-18) added a fuller README
+  whose title, "QTDSA — Quantum Time Deviation Sensor Array", has no "Grade", with a planned repository name
   `qtdsa-quantum-time-deviation-sensor-array`.
 - On 2026-07-18 a pull request (`fix/template-alignment`) aligned the README to the house template, renamed the title
   to "Quantum-Grade", and removed the planned repository name. The prior specification text was reduced; the planned

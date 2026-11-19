@@ -14,7 +14,7 @@
 ![Language](https://img.shields.io/badge/Language-EN%2FRU-brightgreen)
 ![Status](https://img.shields.io/badge/Status-Concept%20%2F%20Design%20Stage-yellow)
 ![Sensor types](https://img.shields.io/badge/sensor_types-4-blue)
-![Channels](https://img.shields.io/badge/channels-8%E2%80%9364_(design_target)-blue)
+![Channels](https://img.shields.io/badge/channels-%E2%89%A5_8_(target_16%E2%80%9364)-blue)
 ![Roadmap](https://img.shields.io/badge/roadmap-0_of_4_phases_started-lightgrey)
 ![Hardware](https://img.shields.io/badge/hardware-none_built-red)
 
@@ -144,13 +144,13 @@ Full page: [guide/ECOSYSTEM.md](guide/ECOSYSTEM.md).
 ## Open questions
 
 The inconsistencies found inside this repository (channel minimum, resolution wording, security level, planned
-files, ecosystem IDs) are listed without being fixed in the source.
+files) are listed without being fixed in the source.
 
 Full page: [guide/EVIDENCE.md](guide/EVIDENCE.md#open-questions).
 
 ## Contact
 
-Organization: Advanced Scientific Research Projects LLP (Republic of Kazakhstan). Website: [asrp.tech](https://asrp.tech).
+Organization: `ТОО "Перспективные Научно-Исследовательские Разработки" / Advanced Scientific Research Projects LLP` (Republic of Kazakhstan). Website: [asrp.tech](https://asrp.tech).
 Email: info@asrp.tech.
 
 Full page: [guide/ECOSYSTEM.md](guide/ECOSYSTEM.md#contact).

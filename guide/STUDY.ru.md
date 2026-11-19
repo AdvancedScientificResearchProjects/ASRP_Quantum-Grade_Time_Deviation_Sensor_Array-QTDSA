@@ -44,9 +44,10 @@ README перечисляет три исследования гиперболи
 
 ## История этого репозитория
 
-- Первые два коммита (2026-04-18) содержали короткое описание, затем более полный README с заголовком
-  «QTDSA — Quantum Time Deviation Sensor Array» (без слова «Grade») и планируемым именем репозитория
-  `qtdsa-quantum-time-deviation-sensor-array`.
+- Начальный коммит (a51adaa, 2026-04-18) содержал короткое описание под заголовком
+  «ASRP_Quantum-Grade_Time_Deviation_Sensor_Array-QTDSA». Второй коммит (e8500c9, 2026-04-18) добавил более полный
+  README с заголовком «QTDSA — Quantum Time Deviation Sensor Array» (без слова «Grade») и планируемым именем
+  репозитория `qtdsa-quantum-time-deviation-sensor-array`.
 - 2026-07-18 pull request (`fix/template-alignment`) привёл README к шаблону организации, изменил заголовок на
   «Quantum-Grade» и убрал планируемое имя репозитория. Прежний текст технического задания сокращён; планируемая
   структура и шаблон задачи сохранены в новом виде.

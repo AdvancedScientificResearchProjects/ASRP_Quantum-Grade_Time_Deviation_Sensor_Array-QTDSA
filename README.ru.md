@@ -12,7 +12,7 @@
 ![Language](https://img.shields.io/badge/Language-EN%2FRU-brightgreen)
 ![Status](https://img.shields.io/badge/Status-Concept%20%2F%20Design%20Stage-yellow)
 ![Типы датчиков](https://img.shields.io/badge/типы_датчиков-4-blue)
-![Каналы](https://img.shields.io/badge/каналы-8%E2%80%9364_(проектная_цель)-blue)
+![Каналы](https://img.shields.io/badge/каналы-%E2%89%A5_8_(цель_16%E2%80%9364)-blue)
 ![Дорожная карта](https://img.shields.io/badge/дорожная_карта-0_из_4_фаз_начато-lightgrey)
 ![Оборудование](https://img.shields.io/badge/оборудование-не_построено-red)
 
