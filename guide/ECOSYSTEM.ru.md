@@ -24,8 +24,7 @@ ASRP (Kazpatent). README не заявляет для неё патентной 
 | UAP Reverse Engineering Study | Анализ НЛО | [View](https://github.com/AdvancedScientificResearchProjects/UAP_Reverse_Engineering_Study) |
 | PLFM RADAR | Фазированная антенная решётка | [View](https://github.com/AdvancedScientificResearchProjects/PLFM_RADAR) |
 
-Они перечислены как связанные репозитории. README не называет зависимости от них. PLFM RADAR, возможно, является внешним
-форком, а не исследованием ASRP; этот репозиторий не устанавливает, так ли это.
+Они перечислены как связанные репозитории. README не называет зависимости от них.
 
 ## Портфель патентных заявок (заявки, не выданы)
 
@@ -39,8 +38,7 @@ ASRP (Kazpatent). README не заявляет для неё патентной 
 | ASRP.drift | KZ 413554 | [View](https://github.com/denisbanchenko/Kazpatent_Advanced_Synchro_Resonance_Platform_For_Deep_Resonant_Patent) |
 | GFS | KZ 2025/1096.1 | [View](https://github.com/denisbanchenko/Kazpatent_Global_Forecasting_System_Patent) |
 
-Строки GFS и ASRP.art не являются зависимостями QTDSA. PCT-часть ASRP.art и номер KZ 413554 требуют сверки, записанной в
-открытых вопросах. Ни одна строка здесь не является выданным патентом.
+Строки GFS и ASRP.art не являются зависимостями QTDSA. Ни одна строка здесь не является выданным патентом.
 
 ## Классификация данных
 

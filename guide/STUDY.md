@@ -53,7 +53,7 @@ and is not tied to their filings. The full list is on [ECOSYSTEM](ECOSYSTEM.md#r
 - On 2026-07-18 a pull request (`fix/template-alignment`) aligned the README to the house template, renamed the title
   to "Quantum-Grade", and removed the planned repository name. The prior specification text was reduced; the planned
   structure and an issue template were kept in new form.
-- Only `main` and `origin/main` exist. No binary files are in the history.
+- At tag `pre-showcase-2026-11` only `main` and `origin/main` existed. No binary files are in the history.
 
 ## Research team
 

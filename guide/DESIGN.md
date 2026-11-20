@@ -114,7 +114,7 @@ Temperature, vibration, electromagnetic fields.
 
 ## Planned structure
 
-The README states that the repository holds only `README.md` today, and that the tree below is the planned layout
+The README stated, at tag `pre-showcase-2026-11`, that the repository held only `README.md` (the showcase has since added `guide/`, `tools/`, `tests/`, `archive/`), and that the tree below is the planned layout
 referenced by the specification. Nothing below exists yet; `metadata.yaml` is not created.
 
 ```

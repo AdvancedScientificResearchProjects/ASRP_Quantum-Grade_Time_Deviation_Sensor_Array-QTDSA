@@ -15,7 +15,7 @@ at tag `pre-showcase-2026-11`). Nothing here is a measured result.
 
 | Statement | Source |
 |---|---|
-| The repository tracks one file, `README.md`; there is no code, data, hardware or firmware file | `archive/README_2026-11-19_pre-showcase.md:230` |
+| At tag `pre-showcase-2026-11` the repository tracked one file, `README.md`; there was no code, data, hardware or firmware file (the showcase later added `guide/`, `tools/`, `tests/`, `archive/`) | `archive/README_2026-11-19_pre-showcase.md:230` |
 | The document says that no hardware has been built, no firmware written and no measurement data collected | `archive/README_2026-11-19_pre-showcase.md:63` |
 | The title uses the term "Quantum-Grade"; the text does not define it | `archive/README_2026-11-19_pre-showcase.md:1` |
 | No QTDSA patent filing exists; the README says the study is exploratory | `archive/README_2026-11-19_pre-showcase.md:333` |
