@@ -24,8 +24,7 @@ only. None of them is the IP basis for QTDSA.
 | UAP Reverse Engineering Study | UAP analysis | [View](https://github.com/AdvancedScientificResearchProjects/UAP_Reverse_Engineering_Study) |
 | PLFM RADAR | Phased array radar | [View](https://github.com/AdvancedScientificResearchProjects/PLFM_RADAR) |
 
-These are listed as related repositories. The README names no dependency on them. PLFM RADAR may be an external fork
-rather than an ASRP study; this repository does not establish which.
+These are listed as related repositories. The README names no dependency on them.
 
 ## Patent Portfolio (applications, not granted)
 
@@ -40,8 +39,7 @@ repository. The repository does not name the applicants; an application is not a
 | ASRP.drift | KZ 413554 | [View](https://github.com/denisbanchenko/Kazpatent_Advanced_Synchro_Resonance_Platform_For_Deep_Resonant_Patent) |
 | GFS | KZ 2025/1096.1 | [View](https://github.com/denisbanchenko/Kazpatent_Global_Forecasting_System_Patent) |
 
-The GFS and ASRP.art rows are not QTDSA dependencies. The PCT part of ASRP.art and the number KZ 413554 need the
-cross-check recorded in the open questions. No row here is a granted patent.
+The GFS and ASRP.art rows are not QTDSA dependencies. No row here is a granted patent.
 
 ## Data classification
 

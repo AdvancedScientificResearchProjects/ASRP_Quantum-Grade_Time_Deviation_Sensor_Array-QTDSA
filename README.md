@@ -101,7 +101,7 @@ Full page: [guide/DESIGN.md](guide/DESIGN.md#roadmap).
 
 ## Structure
 
-The repository holds only this `README.md` today (`git ls-tree -r --name-only HEAD` returns only `README.md`).
+At tag `pre-showcase-2026-11` the repository held only this `README.md` (archive line 230: `git ls-tree -r --name-only HEAD` returned only `README.md`); the showcase then added `guide/`, `tools/`, `tests/` and `archive/`. The tree below is still the planned product layout and is not created.
 The layout below (hardware, firmware, software, docs) is the **planned** structure referenced by the
 specification. It is not created yet.
 
